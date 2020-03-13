@@ -38,3 +38,8 @@ coverage/
 /coverage/index.html
 coverage/index.html
 /config/local_env.yml
+
+
+**/.idea
+/bin
+**/.DS_Store
